@@ -1,89 +1,49 @@
 {
     "org": [
         [
-            "Charissou",
-            "Romain",
-            "Président"
-        ],
-        [
-            "Benlaidi",
-            "Ayoub",
-            "Chargé d’Affaires"
-        ],
-        [
-            "Bou Zogheib",
+            "Banjan",
             "Diane",
-            "Chargée d’Affaires"
+            "Chargée d'affaires"
         ],
         [
-            "Boussuge",
-            "Victorien",
-            "Responsable Qualité"
+            "Mian",
+            "Haris",
+            "Chargé d’affaires"
         ],
         [
-            "Dantant",
-            "Adrien",
-            "Responsable Communication"
-        ],
-        [
-            "Gosset",
-            "Cédric",
-            "Chef de projet"
-        ],
-        [
-            "Hassan",
-            "Bianrafat",
-            "Secrétaire"
-        ],
-        [
-            "Julian",
-            "Romain",
-            "Comptable"
-        ],
-        [
-            "Maitre",
-            "Elliot",
-            "Chargé d’Affaires"
-        ],
-        [
-            "Moukouri",
-            "Régine",
-            "Chargée d’Affaires"
-        ],
-        [
-            "Norikane",
-            "Kenshin",
-            "Vice-président"
-        ],
-        [
-            "Noury",
-            "Ghali",
-            "Chargé d’Affaires"
-        ],
-        [
-            "Tailleur",
-            "Timothée",
+            "Cousin",
+            "Florian",
             "Trésorier"
         ],
         [
-            "Rajaona",
-            "Lionel",
-            "Responsable Communication"
+            "Gramoli",
+            "Lysa",
+            "Responsable qualité"
         ],
         [
-            "Charkaoui",
-            "Othmane",
-            "Chargé d’Affaires"
+            "Ouazzany",
+            "Ismaïl",
+            "Responsable communication / DSI"
         ],
         [
-            "Alaoui",
-            "Hafid",
-            "Chargé d’Affaires"
+            "Le Floch",
+            "Olivier",
+            "Chef de projet"
         ],
         [
-            "Cogne",
-            "Kevin",
-            "Chargé d’Affaires"
-        ]
+            "Olivier",
+            "Nicolas",
+            "Président"
+        ],
+        [
+            "Okitaudji",
+            "Florian",
+            "Chef de projet"
+        ],
+        [
+            "Turpin",
+            "Aurélien",
+            "Secrétaire général"
+        ]        
     ]
 }
