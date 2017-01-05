@@ -58,7 +58,10 @@
     };
 
     $.getJSON('data.json', function(data) {
-        localStorage.setItem('names', JSON.stringify(data.org));
+      localStorage.setItem('names', JSON.stringify(data.org));
+      $.each(data.org, function (val, text) {
+        options[options.length] = new Option(text[0], val);
+      });
     });
     var select = $('#sel');
 
@@ -70,12 +73,8 @@
     }
     $('option', select).remove();
 
-    var names = JSON.parse(localStorage.getItem('names'));
-    $.each(names, function (val, text) {
-      options[options.length] = new Option(text[0], val);
-    });
-
     select.change(function () {
+      var names = JSON.parse(localStorage.getItem('names'));
       id = $(this).val();
       $('#name').text(names[id][1] + ' ' + names[id][0]);
       $('#fctn').text(names[id][2] + '  d’Inspire, Junior-Entreprise de Télécom Saint-Étienne');
