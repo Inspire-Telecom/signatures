@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Signatures Inspire</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.0.0/normalize.min.css" />
+    <style>
+        .conta {
+          width: 100%;
+          max-width: 600px;
+          margin: 50px auto;
+        }
+        .sign {
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 13px;
+            line-height: 1.3;
+        }
+        #fctn {
+            color: #575359;
+        }
+    </style>
+</head>
+<body>
+  <div class="conta">
+    <h2>Signatures email Inspire</h2>
+    <div class="form">
+      <label for="sel">Sélectionner votre nom</label>
+      <select id="sel"></select>
+      <span>puis copier la selection.</span>
+      <p>
+        <small>Sur Gmail, veuillez cocher la case <q><em>Insérer cette signature avant le texte des messages précédents dans les réponses et supprimer la ligne "--" qui précède.</em></q></small>
+      </p>
+    </div>
+    <div class="sign" id="sign">
+      <p>—<br /><span id="name">Prénom Nom</span><br /><span id="fctn">Membre d’Inspire, Junior-Entreprise de Télécom Saint-Étienne</span></p>
+      <img src="logo.png" alt="Logo" width="100" height="43" />
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.8/clipboard.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+  <script>
+    jQuery.fn.selectText = function () {
+      var doc = document
+          , element = this[0]
+          , range, selection
+      ;
+      if (doc.body.createTextRange) {
+        range = document.body.createTextRange();
+        range.moveToElementText(element);
+        range.select();
+      } else if (window.getSelection) {
+        selection = window.getSelection();
+        range = document.createRange();
+        range.selectNodeContents(element);
+        selection.removeAllRanges();
+        selection.addRange(range);
+      }
+    };
+
+    $.getJSON('data.json', function(data) {
+        localStorage.setItem('names', JSON.stringify(data.org));
+    });
+    var select = $('#sel');
+
+    if (select.prop) {
+      var options = select.prop('options');
+    }
+    else {
+      var options = select.attr('options');
+    }
+    $('option', select).remove();
+
+    var names = JSON.parse(localStorage.getItem('names'));
+    $.each(names, function (val, text) {
+      options[options.length] = new Option(text[0], val);
+    });
+
+    select.change(function () {
+      id = $(this).val();
+      $('#name').text(names[id][1] + ' ' + names[id][0]);
+      $('#fctn').text(names[id][2] + '  d’Inspire, Junior-Entreprise de Télécom Saint-Étienne');
+      $('#sign').selectText();
+    });
+  </script>
+</body>
+
+</html>
