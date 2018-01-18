@@ -3,62 +3,74 @@
         [
             "Nom",
             "Prénom",
-            "Fonction"
+            "Fonction",
+            "Numéro de téléphone"
         ],
         [
-            "Mande",
+            "Mhande",
             "Anass",
-            "Chargée d'affaires"
+            "Chargé d'affaires",
+            "07 51 87 60 99"
         ],
         [
             "Manns",
             "Antoine",
-            "Chargé d’affaires"
+            "Chargé d’affaires",
+            "06 08 86 49 63"
         ],
         [
             "Nguyen",
             "Thomas",
-            "Chargée d'affaires"
+            "Chargée d'affaires",
+            ""
         ],
         [
             "Guillermin",
             "Alexandre",
-            "Chargée d'affaires"
+            "Chargée d'affaires",
+            "06 25 03 42 40"
         ],
         [
             "Jabhaoui",
             "Badreddine",
-            "Chargée d'affaires"
+            "Chargée d'affaires",
+            "06 62 40 24 47"
         ],
         [
             "Muller",
             "Florian",
-            "Trésorier"
+            "Trésorier",
+            "06 59 01 09 41"
         ],
         [
             "Jarousse",
             "Clément",
-            "Responsable qualité"
+            "Responsable qualité",
+            "06 51 59 42 72"
         ],
         [
             "Fiorini",
             "Aymeric",
-            "Responsable communication / DSI"
+            "Responsable communication / DSI",
+            "06 28 05 53 97"
         ],
         [
             "Diop",
             "Bamba",
-            "Président"
+            "Président",
+            "06 05 79 20 92"
         ],
         [
             "Michelet",
             "Martin",
-            "Chef de projet"
+            "Chef de projet",
+            "06 87 89 03 05"
         ],
         [
             "Daillé",
             "Olivier",
-            "Secrétaire général"
+            "Secrétaire général",
+            "06 48 39 71 73"
         ]
     ]
 }
