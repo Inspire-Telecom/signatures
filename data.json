@@ -4,79 +4,92 @@
             "Nom",
             "Prénom",
             "Fonction",
-            "Numéro de téléphone"
+            "Numéro de téléphone",
+            "Photo"
         ],
         [
             "Mhande",
             "Anass",
             "Chargé d'affaires",
-            "07 51 87 60 99"
+            "07 51 87 60 99",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02701.jpg"
         ],
         [
             "Manns",
             "Antoine",
             "Chargé d’affaires",
-            "06 08 86 49 63"
+            "06 08 86 49 63",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02714.jpg"
         ],
         [
             "Nguyen",
             "Thomas",
             "Chargé d'affaires",
-            "06 85 28 12 55"
+            "06 85 28 12 55",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02649.jpg"
         ],
         [
             "Guillermin",
             "Alexandre",
             "Chargé d'affaires",
-            "06 25 03 42 40"
+            "06 25 03 42 40",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02645.jpg"
         ],
         [
             "Jabhaoui",
             "Badreddine",
             "Chargé d'affaires",
-            "06 62 40 24 47"
+            "06 62 40 24 47",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02661.jpg"
         ],
         [
             "Foltz",
             "Maxime",
             "Comptable",
-            "06 40 90 46 47"
+            "06 40 90 46 47",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02665.jpg"
         ],
         [
             "Muller",
             "Florian",
             "Trésorier",
-            "06 59 01 09 41"
+            "06 59 01 09 41",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02675.jpg"
         ],
         [
             "Jarousse",
             "Clément",
             "Responsable qualité",
-            "06 51 59 42 72"
+            "06 51 59 42 72",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02683.jpg"
         ],
         [
             "Fiorini",
             "Aymeric",
             "Responsable communication / DSI",
-            "06 28 05 53 97"
+            "06 28 05 53 97",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02652.jpg"
         ],
         [
             "Diop",
             "Bamba",
             "Président",
-            "06 05 79 20 92"
+            "06 05 79 20 92",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02692.jpg"
         ],
         [
             "Michelet",
             "Martin",
             "Chef de projet",
-            "06 87 89 03 05"
+            "06 87 89 03 05",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02657.jpg"
         ],
         [
             "Daillé",
             "Olivier",
             "Secrétaire général",
-            "06 48 39 71 73"
+            "06 48 39 71 73",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02636.jpg"
         ]
     ]
 }
