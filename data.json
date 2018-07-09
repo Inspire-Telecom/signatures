@@ -5,91 +5,117 @@
             "Prénom",
             "Fonction",
             "Numéro de téléphone",
-            "Photo"
+            "Photo",
+            "Catégorie",
+            "Ordre affichage catégorie"
         ],
         [
             "Mhande",
             "Anass",
             "Chargé d'affaires",
             "07 51 87 60 99",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02701.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02701.jpg",
+            "Chargés d'affaires",
+            4
         ],
         [
             "Manns",
             "Antoine",
             "Chargé d’affaires",
             "06 08 86 49 63",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02714.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02714.jpg",
+            "Chargés d'affaires",
+            4
         ],
         [
             "Nguyen",
             "Thomas",
             "Chargé d'affaires",
             "06 85 28 12 55",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02649.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02649.jpg",
+            "Chargés d'affaires",
+            4
         ],
         [
             "Guillermin",
             "Alexandre",
             "Chargé d'affaires",
             "06 25 03 42 40",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02645.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02645.jpg",
+            "Chargés d'affaires",
+            4
         ],
         [
             "Jabhaoui",
             "Badreddine",
             "Chargé d'affaires",
             "06 62 40 24 47",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02661.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02661.jpg",
+            "Chargés d'affaires",
+            4
         ],
         [
             "Foltz",
             "Maxime",
             "Comptable",
             "06 40 90 46 47",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02665.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02665.jpg",
+            "Bureau restreint",
+            2
         ],
         [
             "Muller",
             "Florian",
             "Trésorier",
             "06 59 01 09 41",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02675.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02675.jpg",
+            "Bureau restreint",
+            2
         ],
         [
             "Jarousse",
             "Clément",
             "Responsable qualité",
             "06 51 59 42 72",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02683.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02683.jpg",
+            "Administrateurs",
+            3
         ],
         [
             "Fiorini",
             "Aymeric",
             "Responsable communication / DSI",
             "06 28 05 53 97",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02652.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02652.jpg",
+            "Administrateurs",
+            3
         ],
         [
             "Diop",
             "Bamba",
             "Président",
             "06 05 79 20 92",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02692.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02692.jpg",
+            "Présidence",
+            1
         ],
         [
             "Michelet",
             "Martin",
             "Chef de projet",
             "06 87 89 03 05",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02657.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02657.jpg",
+            "Bureau restreint",
+            2
         ],
         [
             "Daillé",
             "Olivier",
             "Secrétaire général",
             "06 48 39 71 73",
-            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02636.jpg"
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/DSC02636.jpg",
+            "Bureau restreint",
+            2
         ]
     ]
 }
