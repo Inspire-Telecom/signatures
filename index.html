@@ -94,7 +94,7 @@
     $.getJSON('data.json', function(data) {
       localStorage.setItem('names', JSON.stringify(data.org));
       $.each(data.org, function (val, text) {
-        options[options.length] = new Option(text[0], val);
+        options[options.length] = new Option(text[1] + " " + text[0], val);
       });
     });
     var select = $('#sel');
