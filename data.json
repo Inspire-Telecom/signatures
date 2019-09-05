@@ -14,7 +14,7 @@
             "Sobun",
             "Responsable Communication",
             "06 09 14 71 38",
-            "Sobun.jpg",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Sobun.jpg",
             "Administrateurs",
             3
         ],
@@ -23,7 +23,7 @@
             "Tabrose",
             "Responsable Communication",
             "07 51 09 02 80",
-            "pictures/Tabrose.jpg",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Tabrose.jpg",
             "Administrateurs",
             3
         ],
@@ -32,7 +32,7 @@
             "Solène",
             "Responsable Commerciale",
             "06 07 25 05 19",
-            "Solene",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Solene.jpg",
             "Administrateurs",
             3
         ],
@@ -41,7 +41,7 @@
             "Soufiane",
             "Chargé d'affaires",
             "07 60 08 87 51",
-            "Soufiane",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Soufiane.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -50,7 +50,7 @@
             "Ilies",
             "Chargé d'affaires",
             "06 58 91 63 00",
-            "Ilies",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Ilies.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -59,7 +59,7 @@
             "Adrian",
             "Chargé d'affaires",
             "06 37 79 43 32",
-            "Adrian",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Adrian.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -68,7 +68,7 @@
             "Mesmin",
             "Chargé d'affaires",
             "07 68 67 66 11",
-            "Mesmin",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Mesmin.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -77,7 +77,7 @@
             "Clémence",
             "Chargée d'affaires",
             "06 07 56 33 14",
-            "Clemence",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Clemence.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -86,7 +86,7 @@
             "Aude",
             "Chargée d'affaires",
             "06 38 03 17 56",
-            "Aude",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Aude.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -95,7 +95,7 @@
             "Imane",
             "Chargée d'affaires",
             "07 86 76 50 38",
-            "Imane",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Imane.jpg",
             "Chargés d'affaires",
             4
         ],
@@ -104,25 +104,25 @@
             "Élise",
             "Chargée d'affaires",
             "07 81 45 34 14",
-            "Elise",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Elise.jpg",
             "Chargés d'affaires",
             4
         ],
         [
             "Mornard",
             "Isabelle",
-            "Chargée d'affaires",
+            "Responsable Qualité",
             "06 95 38 81 23",
-            "Isabelle",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Isabelle.jpg",
             "Chargés d'affaires",
-            4
+            3
         ],
         [
             "Enaux",
             "Apolline",
             "Comptable",
             "06 35 94 32 61",
-            "Apolline",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Apolline.jpg",
             "Bureau restreint",
             2
         ],
@@ -131,7 +131,7 @@
             "Léa",
             "Trésorière",
             "07 81 85 43 67",
-            "Lea",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Lea.jpg",
             "Bureau restreint",
             2
         ],
@@ -140,27 +140,16 @@
             "Paul",
             "Responsable Qualité",
             "07 68 68 16 98",
-            "Paul",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Paul.jpg",
             "Administrateurs",
             3
-        ],
-        
-        [
-            "Guibert",
-            "Arnaud",
-            "Responsable Qualité",
-            "07 81 92 80 38",
-            "Arnaud",
-            "Administrateurs",
-            3
-        ],
-        
+        ],        
         [
             "Casadevall",
             "Thomas",
             "DSI",
             "06 62 99 84 83",
-            "Thomas",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Thomas.jpg",
             "Administrateurs",
             3
         ],
@@ -169,7 +158,7 @@
             "Julien",
             "Président",
             "07 82 55 98 65",
-            "Julien",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Julien.jpg",
             "Présidence",
             1
         ],
@@ -178,7 +167,7 @@
             "Axel",
             "Vice-Président",
             "06 58 98 11 60",
-            "Axel",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Axel.jpg",
             "Présidence",
             1
         ],
@@ -187,7 +176,7 @@
             "Héloïse",
             "Secrétaire Générale",
             "06 72 53 97 41",
-            "Héloise",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Héloise.jpg",
             "Bureau restreint",
             2
         ]
