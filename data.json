@@ -197,6 +197,69 @@
             "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Bouzid.jpg",
             "Administrateurs",
             3
+        ],
+         [
+            "Vidal",
+            "Gauthier",
+            "Vice-Président",
+            "07 89 86 32 60",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Gauthier.jpg",
+            "Présidence",
+            1
+        ],
+         [
+            "Benbarek",
+            "Sarah",
+            "Chargée d'affaires",
+            "06 02 12 11 72",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Sarah.jpg",
+            "Chargés d'affaires",
+            4
+        ],
+         [
+            "Raynal",
+            "Julien",
+            "Chargé d'affaires",
+            "07 81 54 54 09",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/JulienR.jpg",
+            "Chargés d'affaires",
+            4
+        ],
+         [
+            "Luvisutto",
+            "Eva",
+            "Responsable Communication",
+            "07 50 80 04 00",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Eva.jpeg",
+            "Administrateurs",
+            3
+        ],
+        [
+            "Boughanmi",
+            "Yasmine",
+            "Trésorière",
+            "06 49 26 47 16",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Yasmine.jpg",
+            "Bureau restreint",
+            2
+        ],
+         [
+            "Soos",
+            "Roxána",
+            "Chargée d'affaires",
+            "06 74 72 29 89",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Roxana.jpg",
+            "Chargés d'affaires",
+            4
+        ],
+         [
+            "Farid",
+            "Inès",
+            "Chargée d'affaires",
+            "06 13 63 64 12",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Ines.jpg",
+            "Chargés d'affaires",
+            4
         ]
     ]
 }
