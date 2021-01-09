@@ -442,6 +442,15 @@
             4
         ],
         [
+            "Savary",
+            "Anatole",
+            "Chargé d'affaires",
+            "07 68 88 50 06",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Savary.jpg",
+            "Chargés d'affaires",
+            4
+        ],
+        [
             "Fabas",
             "Elouann",
             "Chargé d'affaires",
@@ -467,6 +476,24 @@
             "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Einkhah.jpg",
             "Présidence",
             1
+        ],
+        [
+            "Masson",
+            "Baptise",
+            "Responsable Qualité",
+            "06 11 67 41 38",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Masson.jpg",
+            "Administrateurs",
+            3
+        ],
+        [
+            "Adouani",
+            "Marwa",
+            "Responsable Qualité",
+            "07 67 78 16 44",
+            "https://raw.githubusercontent.com/Inspire-Telecom/signatures/master/pictures/Adouani.jpg",
+            "Administrateurs",
+            3
         ]
     ]
 }
